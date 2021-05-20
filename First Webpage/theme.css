@@ -1,0 +1,37 @@
+body {
+	font-family: Verdana;
+	background-color: #680118;
+
+}
+
+
+h1 {
+	font-family: Trebuchet MS;
+	color: #D83F66;
+	background-color: #00DFFF;
+	text-align: center;
+}
+
+p { 
+	font-family: Verdana;
+	line-height: 1.8em;
+	text-indent: 30px;
+	margin-bottom: 45px;
+	color: #715EC1;
+}
+
+h3 {
+	font-family: Verdana;
+	color: #D83F66;
+	text-align: left;
+	font-size: 15pt;
+	
+}
+
+li {
+	font-family: verdana;
+	Color: #715EC1;
+}
+
+div {
+	width: 600px;
